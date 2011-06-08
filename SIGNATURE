@@ -1,0 +1,60 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.68.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+SHA1 5033ef8864eab9fb8cc15486e9d63deab5d11c24 Build.PL
+SHA1 bdfffd6afcbf3ffedf461262ad3b0ae5261e268d Changelog
+SHA1 5f5a636d44484ac77f7356dc71e6559a87757937 MANIFEST
+SHA1 97e3d184459d9b6fc7fb6055a780c3851cfa6db6 MANIFEST.SKIP
+SHA1 f68b4ba09c85f6d58a72f25c8f208e9128bd56f9 META.yml
+SHA1 6caac0822e74979459c65453a9c14b588ef5e3e3 README
+SHA1 991199df9215870b1ae2e645593fa725c47a03be bin/slackeria
+SHA1 48b7f3ae1d4c9c174a8bb544116106f662c7c7b6 lib/App/Slackeria/Config.pm
+SHA1 1ac47976140e52a6ef7e1e5a34be075f28de3234 lib/App/Slackeria/Output.pm
+SHA1 2f25b2f7a3044a754224a5aff4349932f7518d10 lib/App/Slackeria/Plugin.pm
+SHA1 c82818af7ea7fdb0bf6c1ed82ba18a27efb2f91d lib/App/Slackeria/Plugin/Base.pm
+SHA1 eb6a5711df187b963bfbff075b05881d7127a60b lib/App/Slackeria/Plugin/CPAN.pm
+SHA1 c65cce0d921ca22fbf6950f4da05ca333d4abd16 lib/App/Slackeria/Plugin/Debian.pm
+SHA1 e67c0f2779d4f0274b5b6fe307013f4250f9915e lib/App/Slackeria/Plugin/FreeBSD.pm
+SHA1 0555785a5c152818e047e9b14f2c6aa2e1758edc lib/App/Slackeria/Plugin/Freshmeat.pm
+SHA1 c03f035e1a557e2760050b510d5b3ddae963c6bc lib/App/Slackeria/Plugin/Gentoo.pm
+SHA1 3f131f21aef2e4cbd8f37540e7625b3fc742ffb7 lib/App/Slackeria/Plugin/Git.pm
+SHA1 9a3ef63383fc94677da91d2c227f1c9f6be3c55f lib/App/Slackeria/Plugin/GitHub.pm
+SHA1 209a4034df50a1c679dc43307aeaebcab3166397 lib/App/Slackeria/Plugin/Ikiwiki.pm
+SHA1 fb30186157add283f7c592a76f421413645d1c1e lib/App/Slackeria/Plugin/OpenPorts.pm
+SHA1 745109ce333060f728a783b8ed9b8fc85ad48b27 lib/App/Slackeria/Plugin/OpenSUSE.pm
+SHA1 260edfd6501dd1d77e47dd28bcb0a58038e43467 lib/App/Slackeria/Plugin/Pkgsrc.pm
+SHA1 893b4b279085203218dfaf233bf67087e36b0cac lib/App/Slackeria/Plugin/Ubuntu.pm
+SHA1 8b33a7844f750a16d0a4ac62ce174d151fe0e794 lib/App/Slackeria/Plugin/Whohas.pm
+SHA1 6cfaebdb4d57688b8ac50f3e840a99a48c15457b t/00-compile-pm.t
+SHA1 3adfc7da6082f15051da7fbda884723388738b61 t/01-compile-pl.t
+SHA1 52e4138fc6cfe7c0cd765e2f830cd679afbadaf5 t/05-pod-compile.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBCAAGBQJN74hHAAoJEBANW/tRZuAFk4MP/3by2LnR9kraHN+qcc823+Ng
+BA84REYBOEbCq7MAWItPmyonyLXjevbX8E+GgqnFyJ5o5p446sMXq0jXrzUUSeT/
+SoA97M3SauXQLoPFzdCLmYv58vj60UZcfQfxDIdPvQa7EX+3MdCB0q8ks9QF6Va1
+7vM8mZdsL/3FdDv+s+VVAMU1Dw5Iy7Nxe8qBRg9CmzQ/JvgUak56bpfHUYhDrr1c
+qnsagyyEPXrpBvmC2o8FP8TF/+kpmE2NoPVonzljtNjoxheBenpYDd6lriW7YFB4
+V0CdBkd0S7Az4cGfZJLClIsEeTHQgv624VM1p9UkD+/BJptqRd1f3dRHWt6+DgUc
+NIKU6IWvLqlJTs10Wif3vAX7kDQQZTgaZMteS8aeFPMjdgmCxAx24qBdnIRnl8WT
+FplgiuZz3Q+KsojuG2oc5BITvKTrVNnMop9D9FUoeq/RHq92emgaZTkRn2QGCU6O
+8t/FGJBR9OVE73XMq5vaAyU5Xego0/U1JQr2VWostnCC9Mn9kxD6eBpOx47kb31r
+ak1XITkBq9nkagApb/LIdLkc1fV6ZW6sXVriBwnJwi4pWl70wGs0aS9wSwANvSnZ
+81+XRDutZvt5Fhcuh7lBUTmIv1r0WemyoFALd4yS9eEODByFhd9tVPkf6vyREyk5
+4K1Gx9xMfikzdoHhp/hN
+=TWht
+-----END PGP SIGNATURE-----
