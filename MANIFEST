@@ -20,9 +20,9 @@ lib/App/Slackeria/Plugin/Ubuntu.pm
 lib/App/Slackeria/Plugin/Whohas.pm
 MANIFEST			This list of files
 MANIFEST.SKIP
+META.yml
 README
 t/00-compile-pm.t
 t/01-compile-pl.t
 t/05-pod-compile.t
-META.yml
 SIGNATURE    Added here by Module::Build
