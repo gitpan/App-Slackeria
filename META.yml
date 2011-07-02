@@ -17,55 +17,55 @@ name: App-Slackeria
 provides:
   App::Slackeria::Config:
     file: lib/App/Slackeria/Config.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Output:
     file: lib/App/Slackeria/Output.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin:
     file: lib/App/Slackeria/Plugin.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Base:
     file: lib/App/Slackeria/Plugin/Base.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::CPAN:
     file: lib/App/Slackeria/Plugin/CPAN.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Debian:
     file: lib/App/Slackeria/Plugin/Debian.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::FreeBSD:
     file: lib/App/Slackeria/Plugin/FreeBSD.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Freshmeat:
     file: lib/App/Slackeria/Plugin/Freshmeat.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Gentoo:
     file: lib/App/Slackeria/Plugin/Gentoo.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Git:
     file: lib/App/Slackeria/Plugin/Git.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::GitHub:
     file: lib/App/Slackeria/Plugin/GitHub.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Ikiwiki:
     file: lib/App/Slackeria/Plugin/Ikiwiki.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::OpenPorts:
     file: lib/App/Slackeria/Plugin/OpenPorts.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::OpenSUSE:
     file: lib/App/Slackeria/Plugin/OpenSUSE.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Pkgsrc:
     file: lib/App/Slackeria/Plugin/Pkgsrc.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Ubuntu:
     file: lib/App/Slackeria/Plugin/Ubuntu.pm
-    version: 0.02
+    version: 0.11
   App::Slackeria::Plugin::Whohas:
     file: lib/App/Slackeria/Plugin/Whohas.pm
-    version: 0.02
+    version: 0.11
 requires:
   CPANPLUS: 0
   Carp: 0
@@ -81,4 +81,4 @@ requires:
   XML::LibXML: 0
   autodie: 0
   perl: v5.10.0
-version: 0.02
+version: 0.11

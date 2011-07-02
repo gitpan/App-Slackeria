@@ -15,46 +15,46 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA256
 
 SHA1 82d5320ca4e7ed01a86964b82de0c9b9071a203e Build.PL
-SHA1 8144438eb20ed742d3df502fa1a18dba2fca6a93 Changelog
+SHA1 a4c38e23b6e6780e9c80678e90cb156f449c74cb Changelog
 SHA1 9064b315b4b2062c40d7ca1f305d912ba4bc2020 MANIFEST
 SHA1 97e3d184459d9b6fc7fb6055a780c3851cfa6db6 MANIFEST.SKIP
-SHA1 8cb2718576cee2e475bbbae80846508f9d9a63a3 META.yml
+SHA1 d94176bac89224c573c0bf51389a03d38a8389bc META.yml
 SHA1 6caac0822e74979459c65453a9c14b588ef5e3e3 README
-SHA1 5cacb3ee6a6ec442864b6ae5ec121f4358b648c0 bin/slackeria
-SHA1 8f287083333a8e0fde947a4e0283a2aaae34c761 lib/App/Slackeria/Config.pm
-SHA1 0abdf28c4665019faf0151228cb4dcc89ce2b6ba lib/App/Slackeria/Output.pm
-SHA1 348de495852871296e260f561f2ac1f0cb1a1650 lib/App/Slackeria/Plugin.pm
-SHA1 2242751b9ebb56c513fa853ba36af626f9af1e8f lib/App/Slackeria/Plugin/Base.pm
-SHA1 626a47c910cc73c8909830722ac483026b9c9385 lib/App/Slackeria/Plugin/CPAN.pm
-SHA1 30f9a5849dec320f95cdeb4b2624c5897ab55e62 lib/App/Slackeria/Plugin/Debian.pm
-SHA1 3ab640b31e0f33736c149f6980fb5ee990fe1957 lib/App/Slackeria/Plugin/FreeBSD.pm
-SHA1 1a2bc6ccb79b8bb3fff1041c80d80088744744d3 lib/App/Slackeria/Plugin/Freshmeat.pm
-SHA1 f1b27f6bfd6dab0857d37e95c3a1e1a917ae16a8 lib/App/Slackeria/Plugin/Gentoo.pm
-SHA1 0bd470cc1be9250fb06896eea4d2a2397ac0997a lib/App/Slackeria/Plugin/Git.pm
-SHA1 464bf5610d492d96ddebf800e57f76a383b06e31 lib/App/Slackeria/Plugin/GitHub.pm
-SHA1 502d9e5d15f34f42d952228eefef7e568d0a661f lib/App/Slackeria/Plugin/Ikiwiki.pm
-SHA1 7cd4a05be62d68053a107244836158f36d5b8118 lib/App/Slackeria/Plugin/OpenPorts.pm
-SHA1 4453333229e588be7138fc0ebfe5331f014783d0 lib/App/Slackeria/Plugin/OpenSUSE.pm
-SHA1 d04efd26c7a89dd825fbaea70efd249936d3906c lib/App/Slackeria/Plugin/Pkgsrc.pm
-SHA1 b55c5e6195e8164d226bdcddd1770106e4bae76b lib/App/Slackeria/Plugin/Ubuntu.pm
-SHA1 47fdd1ebe428e44bd2650ad28b6df50cf8c48e3b lib/App/Slackeria/Plugin/Whohas.pm
+SHA1 9a7621a0552afa6bbe9aab23519942a34b8de6fe bin/slackeria
+SHA1 8700643ea53acb3477bd5c3b12a85d0d81766428 lib/App/Slackeria/Config.pm
+SHA1 ec61d2e4808b34c931a2c94550fb903072e0e76b lib/App/Slackeria/Output.pm
+SHA1 f701432131f8f44a0760074d1e70a2114df00055 lib/App/Slackeria/Plugin.pm
+SHA1 b90828834e24e7801a93abc8fb70565b53c67ac1 lib/App/Slackeria/Plugin/Base.pm
+SHA1 ead196a5f939e5032497392482a2edf74cfc6bb3 lib/App/Slackeria/Plugin/CPAN.pm
+SHA1 762b3114d066e40fba666201c2751d484232c603 lib/App/Slackeria/Plugin/Debian.pm
+SHA1 06a24a96455c9690e515df2909ea7b39c145c75a lib/App/Slackeria/Plugin/FreeBSD.pm
+SHA1 5e5160389e8fcb90f3d9667db9c3e84d17cd63df lib/App/Slackeria/Plugin/Freshmeat.pm
+SHA1 b4b6745c37433dd8fc9843721be02a5a1049a411 lib/App/Slackeria/Plugin/Gentoo.pm
+SHA1 0a1336c085a8ea3ff158f9114f0a9ab78529241b lib/App/Slackeria/Plugin/Git.pm
+SHA1 20bb44120bc69c110acd09999557deba8c0e7f61 lib/App/Slackeria/Plugin/GitHub.pm
+SHA1 0f382886267e0fb8199613c8d96fa12a8e576afd lib/App/Slackeria/Plugin/Ikiwiki.pm
+SHA1 1e5dcbec63452d47bc7b8a2bfa496b73d7adc1d6 lib/App/Slackeria/Plugin/OpenPorts.pm
+SHA1 2f5de62c8fad3840224c9fd63b8167fb213acc4e lib/App/Slackeria/Plugin/OpenSUSE.pm
+SHA1 39605e0c94da49f2c4af2c1b24c50a7b8d4ef4b3 lib/App/Slackeria/Plugin/Pkgsrc.pm
+SHA1 230d7f1e1d13ded7445f769ff96b721585bdddcf lib/App/Slackeria/Plugin/Ubuntu.pm
+SHA1 7c96b6b4f908f73ff9eb0266a25c68d1c55c4d90 lib/App/Slackeria/Plugin/Whohas.pm
 SHA1 6cfaebdb4d57688b8ac50f3e840a99a48c15457b t/00-compile-pm.t
 SHA1 3adfc7da6082f15051da7fbda884723388738b61 t/01-compile-pl.t
 SHA1 52e4138fc6cfe7c0cd765e2f830cd679afbadaf5 t/05-pod-compile.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQIcBAEBCAAGBQJOD3JmAAoJEBANW/tRZuAF58IQALwSvd8tQCxh8Ix+JWsmlcjV
-2UaCbk51YjbmruILtPbl/eF1RrIeMWP1HTdeFsjohAoIEpx31I/CLFrormzf97WJ
-HMSMQR7RCybM2FdT/2bOGx7Ft/knBd2eRjvwFJnaRM/Uaj8UO7VjYg6Hc4kjulOF
-rB0KjuQcbRanaGKu9sK2Q+QyMCCkx/v0TU2tzSIdfh3LWq2c1qccWLwRfmj7DfvF
-dbszx1gdGtum47HqDn7bkHruaKAfSw8kVJje6M1txLcfbV76XgvWzj4IMbhi025G
-3TD14pNVeeHeyp1IW6b/2J0yy5GUxXpWJ9YEm9R/+xf00wpO3qzBrMJQKyTFk0R5
-1O9lLJN5eV5nj3NW7YPieuVttnJ+zNybL6FDN6/KrAawsOFd8WWs6N9CoL2DpMYt
-jB5Ma3uvsLw6BqNFGJU0hoizdubQv/2qZ4dZ2UHgxyW4p7m0HtVTJ1jPTEV50ZxV
-KJ2LosJzEJCE389lgFrTF8yo5ZFEvZKKY/XSpYI2vIokKq6Pzk2anXgh6e3RmyFL
-dOo92qjSlbxDu976Oe6sXKW1OWH1i9NrRQvDMuRtSj2zHV7lg3AMjITbq2bodXml
-zEu2Hou2M1dO2iSo651tOGRD8UGdp159/+nvoA0dQCFXCvTkFrhhrsvGWlgnKh99
-dTLwiGhwqJbP7e2xpMKB
-=V9Xd
+iQIcBAEBCAAGBQJOD3btAAoJEBANW/tRZuAFlNQQALNX0rkRIbrChVT+glQ9uDKR
+I4Y4cknkX4EVUp+DVZ05GJ3zaueOryBS42XnM3A6JCrVhd85szWG1D7cc9jNn9eg
+IBldYrUWz8cMh2Qe+Vbk5DBXIy/+wzvqOgkGBH/68ZAnwP8GBPqwEpK0InS1cstT
+thm+u9RUsGc6w+GWiSObaFwtUDsg/27M12M7Tb8KKbdVlbzcdN5zSMuooBxKvI3w
+jtmjXt7DR2GsW6vti/XieDuZjbkyMermYK2CK+Kbj9xdjAYUFOG6zUaNsLAss3ZG
+Mhugw0D6Iw8bVxL7j9y3VGS2AOz3Y5tLHn+kTrk4O4MLXH8FQcFnmxE8nuy34tAk
+yq1PcLqFR0R362gAF7AzmGQ4bAsmYud24ZwiKFWBq0+/UTgs6KzkKTK2eiiRAeSH
+5kRO+Ee+jg2sNcOyjWqLgFTDQkWH8Y1SV4HlK/vXKa/pQohn3SVl89KoeA+Gznok
+ruX9tkhNWo+7Y4pKwAszob2Avw+lxSuGAGB+aDFHC1IuduZPHd4BD8XnW3ewwnpU
+r0K0YSDaj6rm1NnNKB6K/wPgjXKsbGEJTCGPK+GnEyBNp05rb142sdsvHXMKGqqr
+OKkpDy5IL9zO7QWsP/A24UFdPAGcmIRv/3x+G4ibfRqCqiqAcqJTTIW1toDgWHLC
+FeZ+56XNGkHIbwgVjgL7
+=tbh1
 -----END PGP SIGNATURE-----
